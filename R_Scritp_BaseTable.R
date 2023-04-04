@@ -2,9 +2,6 @@
 ## BASE TABLE ##
 ################
 
-## Group Assignment - Open Source Programming 2021
-
-## By - Medina Martinez Juan Jose, KELLY Elina, VELLINGIRI KOWSALYA Swasthik
 
 ###### INSTRUCTION #####
 #In the last statement of this file, the output file path of the Base_Table_R.RData (RDATA file of Base Table) 
